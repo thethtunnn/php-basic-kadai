@@ -8,8 +8,8 @@
 </head>
 
 <body>
-    <h2>お問い合わせを承りました。</h2>
-    <p>ありがとうございました。今後の参考にさせていただきます。</p>
+    <h2>登録が完了しました。</h2>
+    <p>社員情報がデータベースへの保存されました。</p>
     <button id="back-btn" onclick="location.href='form.php';">戻る</button>
 </body>
 
