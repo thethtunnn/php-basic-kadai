@@ -18,19 +18,5 @@
     }
     ?>
 
-    <?php
-    $user_name = "bb";
-    function show_user_name() {
-        $user_name = "aa";
-        echo $user_name . "<br>";
-    }
-    show_user_name();
-    echo $user_name;
-    ?>
-
-    
-
-
-
 </body>
 </html>
